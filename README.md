@@ -17,3 +17,5 @@
 * -(void)choseCity:(NSMutableArray *)cityArray;//选择城市
 
 * -(void)choseGrade:(NSString *)grade;//选择医院等级
+
+![image](https://github.com/lsfA1/ScreenMenu/raw/master/MenuDemo/img/01.png)![image](https://github.com/lsfA1/ScreenMenu/raw/master/MenuDemo/img/02.png)
